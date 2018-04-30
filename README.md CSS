@@ -1,0 +1,70 @@
+# JavaScript-Basics
+.container{
+    width: 970px;
+    outline: 1px dotted red;
+    background-color: #1d355c;
+    padding: 10px;
+
+}
+.header{
+    width: 100%;
+    background-color: #cc323b;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+.header h1{
+    margin: 0px;
+    padding: 15px 0px 15px 10px;
+    color: #c3d6eb;
+
+
+}
+.navbar{
+width: 180px;
+background-color: #2f7d8b;
+border-radius: 10px;
+padding: 10px;
+display: inline-block;
+vertical-align: top;
+}
+.navbar ul{
+    padding-left: 20px;
+    margin: 0px;
+
+}
+.navbar a{
+    color: #61cac7;
+    font-size: 12px;
+}
+
+
+.main-content{
+
+height: 400px;
+width: 750px;
+
+display: inline-block;
+margin-left: 15px;
+background-color:#0f1822;
+color: #c4d8ec;
+border-radius: 10px;
+
+}
+
+.footer{
+    margin-top: 10px;
+ 
+   width: 100%;
+   height: 50px;
+  padding: 2px;
+   background-color: #5e6672;
+   border-radius: 15px;
+
+  
+}
+
+
+.main-content ul li p{
+    margin: 5px 0;
+}
